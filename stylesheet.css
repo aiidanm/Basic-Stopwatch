@@ -1,0 +1,21 @@
+#buttongroup {
+    margin: 0;
+    position: absolute;
+    
+    
+    
+}
+
+#buttongroup button {
+    background-color: bisque;
+    color: brown;
+    font-size: 2rem;
+}
+
+#timer1 {
+    font-size: 4rem;
+    margin: 0;
+    
+
+}
+
